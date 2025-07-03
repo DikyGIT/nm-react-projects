@@ -27,7 +27,7 @@
   font-size: 40px;
 }
 
-.load-more-box {
+/* .load-more-box {
   margin-top: 50px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -57,4 +57,4 @@
   padding-block: 10px;
   padding-inline: 15px;
   cursor: pointer;
-}
+} */

@@ -3,7 +3,7 @@ function App() {
     <>
       <div className="list-items">
         <div className="container">
-          <h1>React List Items</h1>
+          <h1>Daftar Hadir : 0 Orang</h1>
         </div>
       </div>
     </>
